@@ -1,2 +1,4 @@
 初めてのGit
 ステージングエリアとは？
+git add .
+git commit
